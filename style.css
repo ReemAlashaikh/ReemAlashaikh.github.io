@@ -1,0 +1,73 @@
+body{
+    background-color: #f5dfcd;
+    text-align: center;
+    color: #373737;
+    font-family: bookman old style;
+    text-shadow: 2px 2px #fff9e7;
+    font-size: 15px;
+
+}
+.main {
+    padding: 10%;
+    background-image: url(img/fade.jpg);
+    border-radius: 10px;
+    box-shadow: 2px 2px darkgray;
+}
+
+header{
+    
+    background-image: url("img/fade.jpg");
+    padding: 20px;
+    border-radius: 10px;
+    color: #8C1A1A;
+    box-shadow: 2px 2px darkgray;
+
+
+}
+
+#button {
+    background-image: url(img/fade.jpg);
+    border-radius: 10px;
+    position:absolute;
+    transition: .5s ease;
+    left: 60%;
+}
+
+a{
+    color: #373737;
+    text-decoration: none;
+}
+
+#btn{
+    
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    text-shadow: 2px 2px darkgray;
+
+
+}
+footer{
+    
+    background-image: url(img/fade%20copy.jpg);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    text-align: center;
+    box-shadow: 2px 2px darkgray;
+    letter-spacing: 2px;
+}
+#foot{
+    color: #373737;
+}
+#footl{
+    color: #373737;
+    float: left;
+    padding-left: 20%;
+}
+
+#footr{
+    color: #373737;
+    float: right;
+    padding-right: 20%;
+}
